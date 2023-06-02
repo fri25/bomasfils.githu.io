@@ -1,0 +1,127 @@
+
+/*contact.html*/
+#title{
+    text-align: center;
+}
+
+#MO{
+   margin-top: -80px;
+   padding: 50px;
+}
+#M1{
+    margin-top: -80px;
+    padding: 50px;
+}
+
+#M2{
+    margin-top: -80px;
+    padding: 50px;
+}
+
+#corp1{
+    margin-top: 100px;
+    padding: 20px;
+}
+
+#corp2{
+    margin-top: -350px;
+    margin-left: 500px;
+    
+}
+#DD{
+    margin-top: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    
+}
+#blocs3{
+    margin-top: 50px;
+    padding: 10px;
+    margin: 100px;
+}
+/*end*/
+/*
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+#fond{
+    margin: 20px;
+    padding: 20px;
+
+}
+
+#bb{
+    display: inline-flex;
+    vertical-align: middle;
+    float: none;
+}
+*/
+
+b{
+    text-decoration: aqua;
+    text-transform: uppercase;
+    }
+
+.bb{
+  display: inline-flex;
+  vertical-align: middle;
+  float: none;
+}
+
+#fond{
+    margin-top: 100px;
+}
+
+#aa{
+    margin-top: 50px;
+    padding: 20px;
+}
+
+body{
+    background: url(iiii.jfif) center center fixed no-repeat;
+     background-size: cover;
+    
+}
+#tt{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#bomas{
+    font-size: larger;
+    text-justify: distribute-all-lines;
+}
+
+#im1{
+    margin-top: 40px;
+}
+
+#im2{
+    margin-top: 40px;
+}
+
+#im3{
+    margin-top: 30px;
+}
+
+#im4{
+    margin-top: 30px;
+}
+
+#im5{
+    margin-top: 30px;
+}
+
+#im6{
+    margin-top: 30px;
+}
+
+#im7{
+    margin-top: 30px;
+}
+
+#im8{
+    margin-top: 30px;
+}

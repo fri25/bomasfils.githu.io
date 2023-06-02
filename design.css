@@ -1,0 +1,25 @@
+/*body{
+    background-image: url(image.jfif);
+    background-size: cover;
+}
+*/
+#carouselExample{
+    width: 1500px;
+    margin: auto;
+}
+
+.carousel-item img {
+    width: 250px;
+    height: 350px;
+}
+
+.pied{
+    width: 100px;
+    height: 100px ;
+}
+
+#das{
+    background-image: url(image.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
